@@ -1,0 +1,6 @@
+framework module Pods_FieldWireImageSearchChallenge {
+  umbrella header "Pods-FieldWireImageSearchChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
